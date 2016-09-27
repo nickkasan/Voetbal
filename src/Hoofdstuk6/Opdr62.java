@@ -1,4 +1,4 @@
-package H6.Opdr62;
+package Hoofdstuk6;
 
 /**
  * Created by nickkasan on 22-09-16.

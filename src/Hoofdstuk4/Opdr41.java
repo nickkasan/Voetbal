@@ -1,9 +1,9 @@
-package H3;
+package Hoofdstuk4;
 
 import java.awt.*;
 import java.applet.*;
 
-public class Opdr31 extends Applet {
+public class Opdr41 extends Applet {
 
     public void init() {
     }

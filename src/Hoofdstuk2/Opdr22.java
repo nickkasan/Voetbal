@@ -1,4 +1,4 @@
-package H2.Opdr22;
+package Hoofdstuk2;
 
 import java.awt.*;
 import java.applet.*;

@@ -1,4 +1,4 @@
-package H5.Opdr52;
+package Hoofdstuk5;
 
 /**
  * Created by nickkasan on 21-09-16.

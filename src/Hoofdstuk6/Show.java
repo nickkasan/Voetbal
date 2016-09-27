@@ -1,4 +1,4 @@
-package H6.PraktijkOpdrH6;
+package Hoofdstuk6;
 
 
 

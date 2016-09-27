@@ -1,4 +1,4 @@
-package H6.Opdr61;
+package Hoofdstuk6;
 
 
 

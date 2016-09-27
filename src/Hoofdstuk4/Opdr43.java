@@ -1,4 +1,4 @@
-package H4.Opdr41;
+package Hoofdstuk4;
 
 /**
  * Created by nickkasan on 15-09-16.
@@ -7,7 +7,7 @@ package H4.Opdr41;
 import java.awt.*;
 import java.applet.*;
 
-public class Opdr41 extends Applet {
+public class Opdr43 extends Applet {
 
     public void init() {
     }

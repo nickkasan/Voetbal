@@ -1,4 +1,4 @@
-package H4.Opdr42;
+package Hoofdstuk4;
 
 /**
  * Created by nickkasan on 13-09-16.
